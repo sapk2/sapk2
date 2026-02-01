@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 Currently working on: Laravel-based web applications & custom management systems<br>- 🌱 Currently learning: Advanced Laravel, system optimization, and API integrations<br>- 💻 Skills:JavaScript, PHP, Laravel, MySQL<br>- ⚙️ Backend focus: REST APIs, authentication, database design, performance optimization<br>- ✨ Fun fact: I enjoy turning complex business logic into simple, clean code<br>
+- 🔭 Currently working on: Laravel-based web applications & custom management systems<br>- 💻 Skills:JavaScript, PHP, Laravel, MySQL<br>- ⚙️ Backend focus: REST APIs, authentication, database design, performance optimization<br>- ✨ Fun fact: I enjoy turning complex business logic into simple, clean code<br>
 
 
 ## 🌐  Connect:
